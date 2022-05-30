@@ -44,6 +44,5 @@ After registration, feel free to test full app functionality. Such as:
 3. Create a database by using the SQL queries from the init_db.sql file
 4. Change username, password and URL values in the /util/ConnectionUtil.java to open a connection with your database
 5. Add Tomcat configuration to your project.
-6. Configure log4j2.xml from resources directory.
-7. Run this project using Tomcat's local server
+6. Run this project using Tomcat's local server
 ---
